@@ -44,7 +44,7 @@ The main objective of this project is to provide an online platform for connecti
 * One team worked on the general login process and the other worked on the google ones. I was in charge of google authentication. 
 * The difficulty I faced is in our designing part we were asked to retrieve data from a radio which separates the user from google generated information which made us a difficult task.
 
-## During Sprint...
+## During Sprint 3...
 * My team started working on the farmer’s login and log out page where a user with type farmer is able to register their credentials and login to their respective pages.
 * The login needs to be done with JWT authentication where a token is developed using an algorithm. 
 * We generated the page but not able to redirect the user
