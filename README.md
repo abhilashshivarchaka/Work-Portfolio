@@ -55,4 +55,7 @@ The main objective of this project is to provide an online platform for connecti
 * Now the process is to test each and every component of the frontend and backend.
 
 
-
+## During Sprint 5...
+* My team working on testing the signin/signup pages.
+* we had finished the testing part. Later, we started the implementing the integration part.
+* we tried to implement the integration but we didn't finished the integration part. 
