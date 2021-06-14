@@ -59,3 +59,8 @@ The main objective of this project is to provide an online platform for connecti
 * My team working on testing the signin/signup pages.
 * we had finished the testing part. Later, we started the implementing the integration part.
 * we tried to implement the integration but we didn't finished the integration part. 
+
+## During Sprint 6...
+* I worked with the team and completed the integration part.
+* Later, I worked on the images, I faced the some issues regarding the images then we formed the group and took all the suggestion from friends and completed.
+* Last day I tried to implement the add to cart of the products but I didn't finished it. 
