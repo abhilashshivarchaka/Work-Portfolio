@@ -64,3 +64,10 @@ The main objective of this project is to provide an online platform for connecti
 * I worked with the team and completed the integration part.
 * Later, I worked on the images, I faced the some issues regarding the images then we formed the group and took all the suggestion from friends and completed.
 * Last day I tried to implement the add to cart of the products but I didn't finished it. 
+
+
+## During Sprint 7...
+* I worked on the add to cart products.
+* Later, I faced some bugs in the add to cart, it taken time for me to fixed the bugs.
+* By end of the week I fixed the bugs and worked on place order.
+* solved the bugs in place order.
