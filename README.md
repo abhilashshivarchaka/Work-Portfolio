@@ -71,3 +71,9 @@ The main objective of this project is to provide an online platform for connecti
 * Later, I faced some bugs in the add to cart, it taken time for me to fixed the bugs.
 * By end of the week I fixed the bugs and worked on place order.
 * solved the bugs in place order.
+
+## During Sprint 8...
+* We started working on the process of Checkout and once we finshed it we moved to work on orders page of the customer.
+* After that we started to work on the intergration part of accept or reject orders of the farmer.
+* In this process we faced few bugs to completed the version. 
+* By the end of the sprint we completed the basic version of the customer and farmer connect.  
